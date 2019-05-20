@@ -14,7 +14,11 @@
 https://www.processon.com/view/link/5ce12eeae4b05071d486181c
 这个工具可以在线协同，可以联系我加入协作。
 
+![Image text](https://github.com/cjl84914/PMBOK_6TH_DOC/blob/master/PMP%E7%AC%AC%E5%85%AD%E7%89%8849%E5%AD%90%E8%BF%87%E7%A8%8B.jpg)
+
 2. 把<项目管理实用表格与应用>文件夹里面的启动、规划、执行、监控和结束的文件分开单个文件放到对应的文件夹
+
+![Image text](https://github.com/cjl84914/PMBOK_6TH_DOC/blob/master/1558322451122.jpg)
 
 ## 谁来做？（相关方和资源管理）
 既然放到Github了全世界都可以看到，全世界都可以参与。
@@ -36,6 +40,8 @@ https://www.processon.com/view/link/5ce12eeae4b05071d486181c
 
 ## 怎样联系？（沟通）
 有问题可以加一下我的微信：cjl84914
+
+<img src="https://github.com/cjl84914/PMBOK_6TH_DOC/blob/master/1558270078499.jpg" width="120px" alt="微信二维码"/>
 
 ## 问题日志
 大家把问题都提出来，我就记在这里：
